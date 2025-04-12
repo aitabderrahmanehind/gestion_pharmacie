@@ -24,7 +24,7 @@ export default function LoginPage() {
 
       <div className="separator">OU</div>
 
-      <p>Pas encore inscrit ?</p>
+      <div className="separator">Pas encore inscrit ?</div>
       <button className="secondary">Créer un compte</button>
     </div>
   );
